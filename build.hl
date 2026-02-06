@@ -1,3 +1,11 @@
 // python
+// cargo
+// tor
+// macchanger
+// nftables 
+// python3-cryptography
+// python3-stem 
+// python3-psutil
 
 > cd source-code
+> cargo build --release
