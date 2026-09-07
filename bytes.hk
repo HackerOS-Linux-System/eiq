@@ -1,1 +1,9 @@
+[workspace]
+-> name    => cybersecurity-tools
+-> version => 0.1
+-> mode    => standard
+-> members => ["source-code/hct", "source-code/eiv"]
 
+[build]
+-> parallel => true
+-> cache    => build/cache/
